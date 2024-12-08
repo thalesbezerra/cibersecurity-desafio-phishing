@@ -13,3 +13,4 @@
 
 # Resultado
 
+![image](https://github.com/user-attachments/assets/288cd3f5-b2f7-4851-b36c-e82e13660d7b)
